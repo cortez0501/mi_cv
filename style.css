@@ -1,0 +1,18 @@
+main{
+    background-color: rgb(248, 246, 246);
+}
+header{
+    text-align: center;
+}
+
+body{
+    border: 5px solid;
+    border-color: crimson;
+}
+.item{
+    border-radius: 30px;
+    border-width: 50px;
+    background-color: rgb(119, 170, 225);
+    text-transform: capitalize;
+    }
+
